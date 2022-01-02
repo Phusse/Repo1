@@ -1,0 +1,133 @@
+*{
+    margin: 0%;
+    background-color: black;
+    /* margin-right: 20px; */
+}
+
+/* .rightside{
+        margin-left: 56.54%;
+} */
+
+.leftside{
+    /* margin-right: 47.46%; */
+    color: white;
+    padding-left: 60px;
+    padding-top: 15px ;
+    font-family:  cursive; 
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+img{
+    height: 500px;
+    width: 550px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    margin-right: 15px;
+    
+}
+
+.codename{
+    color: rebeccapurple;
+    font-size: 40px;
+    background-color: hsl(244, 39%, 15%);
+    padding-top: 25px;
+    padding-left: 60px;
+    font-family:  cursive;
+    font-weight: bold;
+    height: 90px;
+    margin-right: 0%;
+    /* background-color: hsl(243, 39%, 12%); */
+}
+.open{
+    font-size: 19px;
+    font-weight: initial;
+    background-color: hsl(244, 39%, 15%);
+    margin-left: 550px;
+}
+.openn{
+    font-size: 19px;
+    font-weight: initial;
+    background-color: hsl(244, 39%, 15%);
+    margin-left: 70px;
+}
+input[type=submit]{
+    border-radius: 60px;
+    height: 32px;
+    width: 110px;
+    margin-left: 90px;
+    background-color: rebeccapurple;
+    font-size: 15px;
+    letter-spacing: 1px;
+    }
+.footer{
+    background-color: purple;
+    height: 280px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* color: blanchedalmond; */
+}
+.phuse{
+    color: white;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 110px;
+   color: rebeccapurple;
+
+}
+.border{
+    border-top: 20px, solid, brown;
+    border-left: 20px, solid, red;
+    border-right: 15px, solid, green;
+    border-bottom: 10px, solid, green;
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.words{
+    border-top: 10px, solid, brown;
+    border-left: 5px, solid, red;
+    border-right: 4px, solid, green;
+    border-bottom: 5px, solid, green;
+    background-color: purple;
+    font-size: 20px;
+    font-family: cursive;
+    padding-top: 10px;
+    height: 250px;
+}
+.head{
+    background-color: white;
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.boda,.bother{
+    background-color: purple;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+address{
+    color: black;
+    background-color: purple;
+}
+.contact{
+    background-color: purple;
+    font-size: 20px;
+    font-family: cursive;
+    padding-top: 40px;
+    height: 240px;
+}
+.branch{
+    background-color: purple;
+    font-size: 20px;
+    font-family: cursive;
+    padding-top: 40px;
+    height: 240px;
+}
